@@ -1,0 +1,21 @@
+body{
+    margin-top: 75px;
+}
+
+.tekstopmaak{
+    background-color: dimgrey;
+    color: rgb(235, 235, 235);
+    padding: 10px;
+}
+
+.navigatiebalk{
+    background-color: dimgrey;
+}
+
+.tekstnavigatie{
+    color: rgb(235, 235, 235);
+}
+
+.ruimteNavigatie{
+    scroll-margin-top: 65px;
+}
